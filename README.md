@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### A few words about me:
 - :mortar_board: I just finished learning Data Analytics at **Le Wagon coding bootcamp**
-- 💻 I'm a **data freelancer**
+- 💻 I'm a **data analyst**
 - 👩‍💻 I'm currently coding in **SQL & Python**
 - 🦜 In parallel to these, I’m looking to contribute to pro-bono **Data For Good projects**
 
