@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - :mortar_board: I just finished learning Data Analytics at **Le Wagon coding bootcamp**
 - 💻 I'm a **data analyst**
 - 👩‍💻 I'm currently coding in **SQL & Python**
+- 🔭 I use BI tools daily like **Tableau & Power BI**
 - 🦜 In parallel to these, I’m looking to contribute to pro-bono **Data For Good projects**
 
 <h3 align="left">Connect with me:</h3>
@@ -43,12 +44,11 @@ Here are some ideas to get you started:
   <a href="https://powerbi.microsoft.com/fr-fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power bi" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://image-forwarder.notaku.so/aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20lMkZzZWN1cmUubm90aW9uLXN0YXRpYy5jb20lMkY1NTdiYzc5ZC02ODFiLTRlYjEtYmY3Zi0wZDc2NzY4M2YyYWUlMkZsb29rZXItc3R1ZGlvbG9nby1wbmcucG5nP3RhYmxlPWJsb2NrJmlkPTlhZDIyNzE4LWE3NWQtNDUwMy04NmJhLTA2ZjM3NWI3YzU2ZCZjYWNoZT12MiZ3aWR0aD0yMDA=" alt="looker studio" width="40" height="40"/> </a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/> </a>
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://21707327.fs1.hubspotusercontent-na1.net/hubfs/21707327/Dbt.png" alt="dbt" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" alt="n8n" width="40" height="40"/> </a>
   <a href="https://www.fivetran.com/" target="_blank" rel="noreferrer"> <img src="https://delighted.com/wp-content/uploads/2021/11/logo-integration-fivetran-marketing.png" alt="fivetran" width="40" height="40"/> </a>
   <a href="https://airbyte.com/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/6163e382e6d96447ec9a82fb_airbyte.svg" alt="airbyte" width="40" height="40"/> </a>
   <a href="https://www.getcensus.com/" target="_blank" rel="noreferrer"> <img src="https://deals.finstart.io/wp-content/uploads/2022/07/census-logo.png" alt="census" width="40" height="40"/> </a>
   <a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Google-Tag-Manager.jpg" alt="google tag manager" width="40" height="40"/> </a>
-  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://i2.wp.com/zeevector.com/wp-content/uploads/Google-Analytics-Logo-Transparent.png?fit=865%2C958&ssl=1" alt="google analytics 4" width="40" height="40"/> </a>
-  </p>
+  
