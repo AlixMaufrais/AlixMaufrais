@@ -3,7 +3,7 @@
 </h1>
 
 <!--
-**AlixMaufrais/AlixMaufrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlixM/AlixM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,20 +18,12 @@ Here are some ideas to get you started:
 🧐 
 -->
 
-<h3 align="center"> I'm Alix, a brand new Data Analyst & Analytics Engineer.
+<h3 align="center"> I'm Alix, a Data Analyst.
 </h3>
 
 ### A few words about me:
-- :mortar_board: I just finished learning Data Analytics at **Le Wagon coding bootcamp**
-- 💻 I'm a **data analyst**
 - 👩‍💻 I'm currently coding in **SQL & Python**
 - 🔭 I use BI tools daily like **Tableau & Power BI**
-- 🦜 In parallel to these, I’m looking to contribute to pro-bono **Data For Good projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alix-maufrais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alix-maufrais" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
